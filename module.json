@@ -19,7 +19,7 @@
     }
   ],
   "languages": [],
-  "url": "https://github.com/deinuser/pf2e-spellstrike",
-  "manifest": "https://raw.githubusercontent.com/deinuser/pf2e-spellstrike/main/module.json",
-  "download": "https://github.com/deinuser/pf2e-spellstrike/archive/refs/heads/main.zip"
+  "url": "https://github.com/Kazgul1987/pf2e-spellstrike-tracker",
+  "manifest": "https://raw.githubusercontent.com/Kazgul1987/pf2e-spellstrike-tracker/main/module.json",
+  "download": "https://github.com/Kazgul1987/pf2e-spellstrike-tracker/releases/latest/download/module.zip"
 }
