@@ -1,0 +1,42 @@
+{
+  "_id": "spellstrike-available-id",
+  "name": "Spellstrike verfügbar",
+  "type": "effect",
+  "img": "icons/magic/symbols/rune-sigil-purple.webp",
+  "system": {
+    "slug": "spellstrike-available",
+    "tokenIcon": {
+      "show": true
+    },
+    "duration": {
+      "value": null,
+      "unit": "unlimited"
+    },
+    "start": {
+      "value": null
+    },
+    "description": {
+      "value": "<p>Dieser Effekt zeigt an, dass der Magus bereit ist, Spellstrike einzusetzen.</p>"
+    },
+    "rules": [],
+    "traits": [],
+    "level": {
+      "value": 1
+    },
+    "source": {
+      "value": "Magus"
+    }
+  },
+  "flags": {
+    "core": {},
+    "pf2e": {
+      "source": "Magus",
+      "level": 1
+    }
+  },
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  }
+}
