@@ -1,0 +1,25 @@
+{
+  "name": "pf2e-spellstrike",
+  "title": "PF2e Spellstrike Tracker",
+  "description": "Verwaltet die Spellstrike-Fähigkeit des Magus automatisch: Effekt bei Kampfbeginn, Verbrauch bei Nutzung, Wiederherstellung über Recharge.",
+  "version": "1.0.0",
+  "author": "Dein Name",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "system": ["pf2e"],
+  "scripts": ["scripts/main.js"],
+  "styles": ["styles/style.css"],
+  "packs": [
+    {
+      "name": "effects",
+      "label": "Spellstrike Effekte",
+      "path": "packs/effects.db",
+      "type": "Item",
+      "system": "pf2e"
+    }
+  ],
+  "languages": [],
+  "url": "https://github.com/deinuser/pf2e-spellstrike",
+  "manifest": "https://raw.githubusercontent.com/deinuser/pf2e-spellstrike/main/module.json",
+  "download": "https://github.com/deinuser/pf2e-spellstrike/archive/refs/heads/main.zip"
+}
