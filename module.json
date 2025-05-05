@@ -4,6 +4,7 @@
   "description": "Verwaltet die Spellstrike-Fähigkeit des Magus automatisch: Effekt bei Kampfbeginn, Verbrauch bei Nutzung, Wiederherstellung über Recharge.",
   "version": "1.0.0",
   "author": "Kazgul1987",
+  "type": "module",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "system": ["pf2e"],
